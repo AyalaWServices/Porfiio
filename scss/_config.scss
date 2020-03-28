@@ -1,0 +1,25 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+body  {
+	font-family: 'Montserrat',  sans-serif;
+	line-height: 1.1;
+	background: #f4f4f4;
+}
+
+h1,
+h2,
+h3  {
+	font-family: 'Oswald',  sans-serif;
+}
+
+$light: #f4f4f4;
+$dark: #444;
+$primary-color: rgba(2, 81, 105, 0.75);
+$secondary-color: rgba(229, 148, 0, 0.9);
+$overlay-color: rgba(5, 39, 54, 0.85);
+$menu-speed: 0.75s;
+
+
